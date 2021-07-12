@@ -6,6 +6,7 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{1CCDB246-FD47-4020-B040-81C2A068B8AF}"
 	ProjectSection(SolutionItems) = preProject
 		index.html = index.html
+		Styles.css = Styles.css
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "images", "images", "{ACD1835B-96A5-47E5-9D74-E7804355F36A}"
@@ -19,6 +20,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "images", "images", "{ACD183
 		pics\joker.jpg = pics\joker.jpg
 		pics\kRhFd2YZxcMEPajwpJULC9.jpg = pics\kRhFd2YZxcMEPajwpJULC9.jpg
 		pics\main-qimg-a44a94c16624e25af61b80b2d7effa6c.png = pics\main-qimg-a44a94c16624e25af61b80b2d7effa6c.png
+		pics\mos.jpg = pics\mos.jpg
 		pics\MvsDC.jpg = pics\MvsDC.jpg
 		pics\pic1.jpg = pics\pic1.jpg
 		pics\smallville.jpg = pics\smallville.jpg
