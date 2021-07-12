@@ -4,25 +4,25 @@
     background-color: #333; 
 }
 
-/* Style the navigation bar links */
+
 .topnav a {
-    float: left; /* Make sure that the links stay side-by-side */
-    display: block; /* Change the display to block, for responsive reasons (see below) */
-    color:darkred; /* White text color */
-    text-align: center; /* Center the text */
-    padding: 14px 20px; /* Add some padding */
-    text-decoration: none; /* Remove underline */
+    float: left; 
+    display: block; 
+    color:darkred; 
+    text-align: center; 
+    padding: 14px 20px; 
+    text-decoration: none; 
 }
 
-    /* Right-aligned link */
+    
     .topnav a.right {
-        float: right; /* Float a link to the right */
+        float: right; 
     }
 
-    /* Change color on hover/mouse-over */
+    
     .topnav a:hover {
-        background-color: #ddd; /* Grey background color */
-        color: black; /* Black text color */
+        background-color: #ddd; 
+        color: black; 
     }
 
 
@@ -33,7 +33,12 @@ p {
     margin-left: 10px;
 }
 
-
+div {
+    padding-top: 20px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+}
 
 body {
     height: 200px;
@@ -50,7 +55,10 @@ h2{
     font-size:40px;
 }
 footer {
+    #myfooter{
+
     padding: 01px; 
     text-align: center; 
+             }
      
 }
