@@ -10,14 +10,18 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "images", "images", "{ACD1835B-96A5-47E5-9D74-E7804355F36A}"
 	ProjectSection(SolutionItems) = preProject
-		pics\best-dc-comics-binge-read-dc-universe.jpg = pics\best-dc-comics-binge-read-dc-universe.jpg
+		pics\Aquaman.jpg = pics\Aquaman.jpg
+		pics\arkham.jpg = pics\arkham.jpg
+		pics\Batman.jpg = pics\Batman.jpg
 		pics\Best-DC-Stories.jpg = pics\Best-DC-Stories.jpg
-		pics\GalleryBatman75_1900x900_links_BAT02_VARCVR_533377e2b5df67.96635620.jpg = pics\GalleryBatman75_1900x900_links_BAT02_VARCVR_533377e2b5df67.96635620.jpg
-		pics\izHTcbrF2b8kxrF9CYQJia.jpg = pics\izHTcbrF2b8kxrF9CYQJia.jpg
-		pics\joker-comics-reading-guide.jpg = pics\joker-comics-reading-guide.jpg
+		pics\DC.jpg = pics\DC.jpg
+		pics\DCvMARVEL.jpg = pics\DCvMARVEL.jpg
+		pics\joker.jpg = pics\joker.jpg
 		pics\kRhFd2YZxcMEPajwpJULC9.jpg = pics\kRhFd2YZxcMEPajwpJULC9.jpg
 		pics\main-qimg-a44a94c16624e25af61b80b2d7effa6c.png = pics\main-qimg-a44a94c16624e25af61b80b2d7effa6c.png
+		pics\MvsDC.jpg = pics\MvsDC.jpg
 		pics\pic1.jpg = pics\pic1.jpg
+		pics\smallville.jpg = pics\smallville.jpg
 	EndProjectSection
 EndProject
 Global
